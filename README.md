@@ -38,9 +38,7 @@ Insert gif or link to demo
 
 ![App Screenshot](ssr/13.PNG)
 
-## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
 
 
 ## Tareas específicas
